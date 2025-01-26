@@ -7,7 +7,7 @@
 - [x] The Florist
 
 ## Weapons
-- [ ] Magnifying Glass
+- [x] Magnifying Glass
 - [x] Walking Stick
 - [ ] Old Key
 - [x] Heavy Book
