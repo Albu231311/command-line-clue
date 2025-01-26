@@ -5,11 +5,14 @@
 - [ ] The Baker
 - [ ] The Librarian
 - [x] The Florist
+
 ## Weapons
 - [ ] Magnifying Glass
 - [x] Walking Stick
 - [ ] Old Key
 - [x] Heavy Book
+- [x] Bronze Trophy
+- [x] Kitchen Knife
 ## Notes
 *Use this space to record your findings and deductions...*
 
