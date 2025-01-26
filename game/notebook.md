@@ -4,7 +4,7 @@
 - [ ] The Journalist
 - [ ] The Baker
 - [ ] The Librarian
-
+- [x] The Florist
 ## Weapons
 - [ ] Magnifying Glass
 - [ ] Walking Stick
