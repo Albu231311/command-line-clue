@@ -9,7 +9,7 @@
 - [ ] Magnifying Glass
 - [ ] Walking Stick
 - [ ] Old Key
-
+- [x] Heavy Book
 ## Notes
 *Use this space to record your findings and deductions...*
 
