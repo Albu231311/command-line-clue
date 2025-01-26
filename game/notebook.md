@@ -5,6 +5,7 @@
 - [ ] The Baker
 - [ ] The Librarian
 - [x] The Florist
+- [x] The Gardener
 
 ## Weapons
 - [x] Magnifying Glass
